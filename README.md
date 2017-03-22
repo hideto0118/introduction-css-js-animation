@@ -2,12 +2,12 @@
 I put reference URLs
 
 ## CSS Animation
-*[Timing Properties](Timing Properties: https://codepen.io/Hideto/pen/amjRjx?editors=1100)
+*[Timing Properties](https://codepen.io/Hideto/pen/amjRjx?editors=1100)
 ### Learning Mateterials
-** W3C School **
+**W3C School**
 *[Transition](https://www.w3schools.com/css/css3_transitions.asp)
 *[Keyframe Animation](https://www.w3schools.com/css/css3_animations.asp)
-** CSS-Tricks **
+**CSS-Tricks**
 *[Transition](https://css-tricks.com/almanac/properties/t/transition/)
 *[Keyframe Animation](https://css-tricks.com/snippets/css/keyframe-animation-syntax/)
 
