@@ -2,14 +2,14 @@
 I put reference URLs
 
 ## CSS Animation
-*[Timing Properties](https://codepen.io/Hideto/pen/amjRjx?editors=1100)
+* [Timing Properties](https://codepen.io/Hideto/pen/amjRjx?editors=1100)
 ### Learning Mateterials
 **W3C School**
-*[Transition](https://www.w3schools.com/css/css3_transitions.asp)
-*[Keyframe Animation](https://www.w3schools.com/css/css3_animations.asp)
+* [Transition](https://www.w3schools.com/css/css3_transitions.asp)
+* [Keyframe Animation](https://www.w3schools.com/css/css3_animations.asp)
 **CSS-Tricks**
-*[Transition](https://css-tricks.com/almanac/properties/t/transition/)
-*[Keyframe Animation](https://css-tricks.com/snippets/css/keyframe-animation-syntax/)
+* [Transition](https://css-tricks.com/almanac/properties/t/transition/)
+* [Keyframe Animation](https://css-tricks.com/snippets/css/keyframe-animation-syntax/)
 
 
 ## JS Performance
